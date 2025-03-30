@@ -17,4 +17,4 @@ This project is a basic **CRUD (Create, Read, Update, Delete)** application buil
 - **PHP** – Backend logic  
 - **MySQL** – Database storage  
 - **HTML/CSS** – Basic UI structure  
-- **JavaScript (Optional)** – For interactive sorting  
+- **JavaScript** – For image upload option
